@@ -1,0 +1,6 @@
+Sabão YPE;20.0
+Coca-Cola;11.0
+Bolacha Oreo;5.0
+Shampoo ClearMen;15.0
+Chocolate Nestle;6.0
+Água Mineral Cristal;4.0
